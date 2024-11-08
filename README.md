@@ -1,5 +1,5 @@
 # TAG
-Code of TAG: Instructing Temporally Guided Probability to Align Graph Topological Modeling for Ambiguous 3D Human Pose and Shape Estimation will be uploaded soon !!!
+\textbf{Code and more Demo of TAG: Instructing Temporally Guided Probability to Align Graph Topological Modeling for Ambiguous 3D Human Pose and Shape Estimation will be uploaded soon !!!}
 
 ## Pipeline of TAG
 ![Pipeline of TAG](./gif/pipeline.png)

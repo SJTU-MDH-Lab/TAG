@@ -1,6 +1,9 @@
 # TAG
 Code of TAG: Instructing Temporally Guided Probability to Align Graph Topological Modeling for Ambiguous 3D Human Pose and Shape Estimation will be uploaded soon !!!
 
+## Pipeline of TAG
+![Pipeline of TAG](./gif/pipeline.png)
+
 ## Result of Ambiguous Image
 This repository provides several experimental results:
 ![Result of Ambiguous Image](./gif/first.png)

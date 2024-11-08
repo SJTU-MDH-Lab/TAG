@@ -3,6 +3,8 @@ Code of TAG: Instructing Temporally Guided Probability to Align Graph Topologica
 
 ## Results
 This repository provides several experimental results:
+![Result of Ambiguous Image](./gif/first.png)
+
 <div style="display: flex; justify-content: space-between;">
     <img src="./gif/1_pro -original-original1.gif" width="32%" height="auto">
     <img src="./gif/2_pro -original-original (2).gif" width="32%" height="auto">
